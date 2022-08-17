@@ -25,3 +25,7 @@ hs_err_pid*
 bin/
 .classpath
 .project
+.idea/
+/Spring3.iml
+out/
+libs/
